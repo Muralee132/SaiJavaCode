@@ -2,4 +2,4 @@
 <h2> By Mr.Sai from Saidemy </h2>
 <h2> Its time to start DevOps Project!! Get ready!! </h2>
 <h2> This is End-End Devops CI-CD Pipeline project-2!! </h2>	
-<h2> We are done with Devops Project-2!! </h2>
+<h2> We are done with DevopsS Project-2!! </h2>
