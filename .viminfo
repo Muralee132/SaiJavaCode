@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1642840686,,"wq!"
+|2,0,1642841993,,"wq!"
 :q!
 |2,0,1640700543,,"q!"
 
@@ -27,30 +27,70 @@
 # Registers:
 
 # File marks:
-'0  5  27  ~/SaiJavaCode/webapp/src/main/webapp/index.jsp
-|4,48,5,27,1642840686,"~/SaiJavaCode/webapp/src/main/webapp/index.jsp"
-'1  1  0  ~/webapp/src/main/webapp/index.jsp
-|4,49,1,0,1642836896,"~/webapp/src/main/webapp/index.jsp"
-'2  1  0  ~/webapp/src/main/webapp/index.jsp
-|4,50,1,0,1642836896,"~/webapp/src/main/webapp/index.jsp"
-'3  1  0  ~/webapp/src/main/webapp/index.jsp
-|4,51,1,0,1642836896,"~/webapp/src/main/webapp/index.jsp"
-'4  5  29  ~/SaiJavaCode/webapp/src/main/webapp/index.jsp
-|4,52,5,29,1642836687,"~/SaiJavaCode/webapp/src/main/webapp/index.jsp"
-'5  5  45  ~/SaiJavaCode/webapp/src/main/webapp/index.jsp
-|4,53,5,45,1640882007,"~/SaiJavaCode/webapp/src/main/webapp/index.jsp"
-'6  5  45  ~/SaiJavaCode/webapp/src/main/webapp/index.jsp
-|4,54,5,45,1640882007,"~/SaiJavaCode/webapp/src/main/webapp/index.jsp"
-'7  4  59  ~/SaiJavaCode/webapp/src/main/webapp/index.jsp
-|4,55,4,59,1640881151,"~/SaiJavaCode/webapp/src/main/webapp/index.jsp"
-'8  4  59  ~/SaiJavaCode/webapp/src/main/webapp/index.jsp
-|4,56,4,59,1640881151,"~/SaiJavaCode/webapp/src/main/webapp/index.jsp"
-'9  4  59  ~/SaiJavaCode/webapp/src/main/webapp/index.jsp
-|4,57,4,59,1640881151,"~/SaiJavaCode/webapp/src/main/webapp/index.jsp"
+'0  5  28  ~/SaiJavaCode/webapp/src/main/webapp/index.jsp
+|4,48,5,28,1642841993,"~/SaiJavaCode/webapp/src/main/webapp/index.jsp"
+'1  5  28  ~/SaiJavaCode/webapp/src/main/webapp/index.jsp
+|4,49,5,28,1642841966,"~/SaiJavaCode/webapp/src/main/webapp/index.jsp"
+'2  5  27  ~/SaiJavaCode/webapp/src/main/webapp/index.jsp
+|4,50,5,27,1642840686,"~/SaiJavaCode/webapp/src/main/webapp/index.jsp"
+'3  5  27  ~/SaiJavaCode/webapp/src/main/webapp/index.jsp
+|4,51,5,27,1642840686,"~/SaiJavaCode/webapp/src/main/webapp/index.jsp"
+'4  1  0  ~/webapp/src/main/webapp/index.jsp
+|4,52,1,0,1642836896,"~/webapp/src/main/webapp/index.jsp"
+'5  1  0  ~/webapp/src/main/webapp/index.jsp
+|4,53,1,0,1642836896,"~/webapp/src/main/webapp/index.jsp"
+'6  1  0  ~/webapp/src/main/webapp/index.jsp
+|4,54,1,0,1642836896,"~/webapp/src/main/webapp/index.jsp"
+'7  5  29  ~/SaiJavaCode/webapp/src/main/webapp/index.jsp
+|4,55,5,29,1642836687,"~/SaiJavaCode/webapp/src/main/webapp/index.jsp"
+'8  5  29  ~/SaiJavaCode/webapp/src/main/webapp/index.jsp
+|4,56,5,29,1642836687,"~/SaiJavaCode/webapp/src/main/webapp/index.jsp"
+'9  5  29  ~/SaiJavaCode/webapp/src/main/webapp/index.jsp
+|4,57,5,29,1642836687,"~/SaiJavaCode/webapp/src/main/webapp/index.jsp"
 
 # Jumplist (newest first):
+-'  5  28  ~/SaiJavaCode/webapp/src/main/webapp/index.jsp
+|4,39,5,28,1642841993,"~/SaiJavaCode/webapp/src/main/webapp/index.jsp"
+-'  5  28  ~/SaiJavaCode/webapp/src/main/webapp/index.jsp
+|4,39,5,28,1642841966,"~/SaiJavaCode/webapp/src/main/webapp/index.jsp"
 -'  5  27  ~/SaiJavaCode/webapp/src/main/webapp/index.jsp
 |4,39,5,27,1642840686,"~/SaiJavaCode/webapp/src/main/webapp/index.jsp"
+-'  1  0  ~/webapp/src/main/webapp/index.jsp
+|4,39,1,0,1642836896,"~/webapp/src/main/webapp/index.jsp"
+-'  1  0  ~/webapp/src/main/webapp/index.jsp
+|4,39,1,0,1642836896,"~/webapp/src/main/webapp/index.jsp"
+-'  1  0  ~/webapp/src/main/webapp/index.jsp
+|4,39,1,0,1642836896,"~/webapp/src/main/webapp/index.jsp"
+-'  1  0  ~/webapp/src/main/webapp/index.jsp
+|4,39,1,0,1642836896,"~/webapp/src/main/webapp/index.jsp"
+-'  1  0  ~/webapp/src/main/webapp/index.jsp
+|4,39,1,0,1642836896,"~/webapp/src/main/webapp/index.jsp"
+-'  1  0  ~/webapp/src/main/webapp/index.jsp
+|4,39,1,0,1642836896,"~/webapp/src/main/webapp/index.jsp"
+-'  1  0  ~/webapp/src/main/webapp/index.jsp
+|4,39,1,0,1642836896,"~/webapp/src/main/webapp/index.jsp"
+-'  1  0  ~/webapp/src/main/webapp/index.jsp
+|4,39,1,0,1642836896,"~/webapp/src/main/webapp/index.jsp"
+-'  1  0  ~/webapp/src/main/webapp/index.jsp
+|4,39,1,0,1642836896,"~/webapp/src/main/webapp/index.jsp"
+-'  1  0  ~/webapp/src/main/webapp/index.jsp
+|4,39,1,0,1642836896,"~/webapp/src/main/webapp/index.jsp"
+-'  1  0  ~/webapp/src/main/webapp/index.jsp
+|4,39,1,0,1642836896,"~/webapp/src/main/webapp/index.jsp"
+-'  1  0  ~/webapp/src/main/webapp/index.jsp
+|4,39,1,0,1642836896,"~/webapp/src/main/webapp/index.jsp"
+-'  1  0  ~/webapp/src/main/webapp/index.jsp
+|4,39,1,0,1642836896,"~/webapp/src/main/webapp/index.jsp"
+-'  1  0  ~/webapp/src/main/webapp/index.jsp
+|4,39,1,0,1642836896,"~/webapp/src/main/webapp/index.jsp"
+-'  1  0  ~/webapp/src/main/webapp/index.jsp
+|4,39,1,0,1642836896,"~/webapp/src/main/webapp/index.jsp"
+-'  1  0  ~/webapp/src/main/webapp/index.jsp
+|4,39,1,0,1642836896,"~/webapp/src/main/webapp/index.jsp"
+-'  1  0  ~/webapp/src/main/webapp/index.jsp
+|4,39,1,0,1642836896,"~/webapp/src/main/webapp/index.jsp"
+-'  1  0  ~/webapp/src/main/webapp/index.jsp
+|4,39,1,0,1642836896,"~/webapp/src/main/webapp/index.jsp"
 -'  1  0  ~/webapp/src/main/webapp/index.jsp
 |4,39,1,0,1642836896,"~/webapp/src/main/webapp/index.jsp"
 -'  1  0  ~/webapp/src/main/webapp/index.jsp
@@ -86,13 +126,21 @@
 -'  4  59  ~/SaiJavaCode/webapp/src/main/webapp/index.jsp
 |4,39,4,59,1640881718,"~/SaiJavaCode/webapp/src/main/webapp/index.jsp"
 -'  4  59  ~/SaiJavaCode/webapp/src/main/webapp/index.jsp
-|4,39,4,59,1640881151,"~/SaiJavaCode/webapp/src/main/webapp/index.jsp"
+|4,39,4,59,1640881718,"~/SaiJavaCode/webapp/src/main/webapp/index.jsp"
+-'  4  59  ~/SaiJavaCode/webapp/src/main/webapp/index.jsp
+|4,39,4,59,1640881718,"~/SaiJavaCode/webapp/src/main/webapp/index.jsp"
 -'  4  59  ~/SaiJavaCode/webapp/src/main/webapp/index.jsp
 |4,39,4,59,1640881151,"~/SaiJavaCode/webapp/src/main/webapp/index.jsp"
 -'  4  59  ~/SaiJavaCode/webapp/src/main/webapp/index.jsp
 |4,39,4,59,1640881151,"~/SaiJavaCode/webapp/src/main/webapp/index.jsp"
 -'  4  59  ~/SaiJavaCode/webapp/src/main/webapp/index.jsp
 |4,39,4,59,1640881151,"~/SaiJavaCode/webapp/src/main/webapp/index.jsp"
+-'  4  59  ~/SaiJavaCode/webapp/src/main/webapp/index.jsp
+|4,39,4,59,1640881151,"~/SaiJavaCode/webapp/src/main/webapp/index.jsp"
+-'  3  49  ~/SaiJavaCode/webapp/src/main/webapp/index.jsp
+|4,39,3,49,1640881015,"~/SaiJavaCode/webapp/src/main/webapp/index.jsp"
+-'  3  49  ~/SaiJavaCode/webapp/src/main/webapp/index.jsp
+|4,39,3,49,1640881015,"~/SaiJavaCode/webapp/src/main/webapp/index.jsp"
 -'  3  49  ~/SaiJavaCode/webapp/src/main/webapp/index.jsp
 |4,39,3,49,1640881015,"~/SaiJavaCode/webapp/src/main/webapp/index.jsp"
 -'  3  49  ~/SaiJavaCode/webapp/src/main/webapp/index.jsp
@@ -121,54 +169,6 @@
 |4,39,3,49,1640700575,"~/SaiJavaCode/webapp/src/main/webapp/index.jsp"
 -'  3  49  ~/SaiJavaCode/webapp/src/main/webapp/index.jsp
 |4,39,3,49,1640700575,"~/SaiJavaCode/webapp/src/main/webapp/index.jsp"
--'  1  0  ~/SaiJavaCode/Dockerfile
-|4,39,1,0,1640700543,"~/SaiJavaCode/Dockerfile"
--'  1  0  ~/SaiJavaCode/Dockerfile
-|4,39,1,0,1640700543,"~/SaiJavaCode/Dockerfile"
--'  1  0  ~/SaiJavaCode/Dockerfile
-|4,39,1,0,1640700543,"~/SaiJavaCode/Dockerfile"
--'  1  0  ~/SaiJavaCode/Dockerfile
-|4,39,1,0,1640700543,"~/SaiJavaCode/Dockerfile"
--'  1  0  ~/SaiJavaCode/Dockerfile
-|4,39,1,0,1640700543,"~/SaiJavaCode/Dockerfile"
--'  1  0  ~/SaiJavaCode/Dockerfile
-|4,39,1,0,1640700543,"~/SaiJavaCode/Dockerfile"
--'  1  0  ~/SaiJavaCode/Dockerfile
-|4,39,1,0,1640700543,"~/SaiJavaCode/Dockerfile"
--'  1  0  ~/SaiJavaCode/Dockerfile
-|4,39,1,0,1640700543,"~/SaiJavaCode/Dockerfile"
--'  1  0  ~/SaiJavaCode/Dockerfile
-|4,39,1,0,1640700543,"~/SaiJavaCode/Dockerfile"
--'  1  0  ~/SaiJavaCode/Dockerfile
-|4,39,1,0,1640700543,"~/SaiJavaCode/Dockerfile"
--'  1  0  ~/SaiJavaCode/Dockerfile
-|4,39,1,0,1640700543,"~/SaiJavaCode/Dockerfile"
--'  1  0  ~/SaiJavaCode/Dockerfile
-|4,39,1,0,1640700543,"~/SaiJavaCode/Dockerfile"
--'  1  0  ~/SaiJavaCode/Dockerfile
-|4,39,1,0,1640700543,"~/SaiJavaCode/Dockerfile"
--'  1  0  ~/SaiJavaCode/Dockerfile
-|4,39,1,0,1640700543,"~/SaiJavaCode/Dockerfile"
--'  1  0  ~/SaiJavaCode/Dockerfile
-|4,39,1,0,1640700543,"~/SaiJavaCode/Dockerfile"
--'  1  0  ~/SaiJavaCode/Dockerfile
-|4,39,1,0,1640700543,"~/SaiJavaCode/Dockerfile"
--'  1  0  ~/SaiJavaCode/Dockerfile
-|4,39,1,0,1640700543,"~/SaiJavaCode/Dockerfile"
--'  1  0  ~/SaiJavaCode/Dockerfile
-|4,39,1,0,1640700543,"~/SaiJavaCode/Dockerfile"
--'  1  0  ~/SaiJavaCode/Dockerfile
-|4,39,1,0,1640700543,"~/SaiJavaCode/Dockerfile"
--'  1  0  ~/SaiJavaCode/Dockerfile
-|4,39,1,0,1640700543,"~/SaiJavaCode/Dockerfile"
--'  1  0  ~/SaiJavaCode/Dockerfile
-|4,39,1,0,1640700543,"~/SaiJavaCode/Dockerfile"
--'  1  0  ~/SaiJavaCode/Dockerfile
-|4,39,1,0,1640700543,"~/SaiJavaCode/Dockerfile"
--'  1  0  ~/SaiJavaCode/Dockerfile
-|4,39,1,0,1640700543,"~/SaiJavaCode/Dockerfile"
--'  1  0  ~/SaiJavaCode/Dockerfile
-|4,39,1,0,1640700543,"~/SaiJavaCode/Dockerfile"
 -'  1  0  ~/SaiJavaCode/Dockerfile
 |4,39,1,0,1640700543,"~/SaiJavaCode/Dockerfile"
 -'  1  0  ~/SaiJavaCode/Dockerfile
@@ -253,10 +253,10 @@
 # History of marks within files (newest to oldest):
 
 > ~/SaiJavaCode/webapp/src/main/webapp/index.jsp
-	*	1642840683	0
-	"	5	27
-	^	5	28
-	.	5	27
+	*	1642841988	0
+	"	5	28
+	^	5	29
+	.	5	28
 	+	3	10
 	+	1	2
 	+	3	51
@@ -264,7 +264,7 @@
 	+	4	52
 	+	3	57
 	+	4	61
-	+	5	27
+	+	5	28
 
 > ~/webapp/src/main/webapp/index.jsp
 	*	1642836896	0

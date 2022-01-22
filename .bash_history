@@ -61,3 +61,38 @@ cd
 git add .
 git commit -m "koli"
 git push https://github.com/Muralee132/SaiJavaCode.git
+ls
+rm -rf SaiJavaCode
+yum update -y
+git config --list 
+git clone https://github.com/Muralee132/SaiJavaCode.git
+which tree
+tree
+ls
+cd SaiJavaCode
+vi webapp/src/main/webapp/index.jsp
+cd
+git add.
+git add .
+git commit -m "practice"
+git push https://github.com/Muralee132/SaiJavaCode.git
+git branch
+git push
+git push origin main
+git push origin main https://github.com/Muralee132/SaiJavaCode.git
+git push https://github.com/Muralee132/SaiJavaCode.git
+    git push --set-upstream https://github.com/Muralee132/SaiJavaCode.git master
+yum update -y
+git init
+    git push  https://github.com/Muralee132/SaiJavaCode.git 
+git branch -m main
+git branch
+    git push  https://github.com/Muralee132/SaiJavaCode.git 
+git push origin main https://github.com/Muralee132/SaiJavaCode.git
+    git push --set-upstream https://github.com/Muralee132/SaiJavaCode.git main
+cd SaiJavaCode
+ls
+vi webapp/src/main/webapp/index.jsp
+git init
+vi webapp/src/main/webapp/index.jsp
+exit
